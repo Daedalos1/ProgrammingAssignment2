@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-##Testing ability to edit
+##Testing ability to edit and paste
 makeCacheMatrix <- function(x = matrix()) {
 
 }
