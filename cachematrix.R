@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
+##Just trying out editing
 ## Write a short comment describing this function
 ##Testing ability to edit and paste
 makeCacheMatrix <- function(x = matrix()) {
